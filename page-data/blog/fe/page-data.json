@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-templates-blog-template-js",
+    "componentChunkName": "component---src-templates-blog-template-jsx",
     "path": "/blog/fe",
-    "result": {"data":{"site":{"siteMetadata":{"siteUrl":"https://furafrafrfr.github.io"}},"contentfulBlogPostV2":{"content":{"childMarkdownRemark":{"frontmatter":{"category":["ソフトウェア関係","資格"],"date":"2022-02-22","slug":"blog/fe","title":"FEを受けた"},"html":"<p>令和3年度下期基本情報技術者試験を受けて無事合格しました。午前7割午後9割くらいでした。過去問をしっかり解くのが大切だなと思いました。</p>\n<p>内容が薄いのはこれが4ヶ月近く前の話なんですよね。ブログを作ったものの何を書いたらいいのかよくわからなくてつらい。アウトプットになるほどインプットがあるわけではないのでいろいろな面にアンテナ張って手も動かしていけたらいいです。</p>"}}},"blogContext":{"category":["ソフトウェア関係","資格","本","その他","Gatsby.js","Contentful","GitHub Actions"]}},"pageContext":{"slug":"blog/fe"}},
-    "staticQueryHashes": ["28851281","3558571327"]}
+    "result": {"data":{"site":{"siteMetadata":{"description":"ぐっちーのブログ","lang":"ja","siteUrl":"https://furafrafrfr.github.io","title":"ぐちろぐ"}},"file":{"childImageSharp":{"original":{"src":"/static/newicon-3650662aee295838bcf985eac750f63e.png","width":1081,"height":898}}},"markdownRemark":{"frontmatter":{"category":["ソフトウェア関係","資格"],"title":"FEを受けた","slug":"blog/fe","date":"2022-02-22"},"html":"<p>令和3年度下期基本情報技術者試験を受けて無事合格しました。午前7割午後9割くらいでした。過去問をしっかり解くのが大切だなと思いました。</p>\n<p>内容が薄いのはこれが4ヶ月近く前の話なんですよね。ブログを作ったものの何を書いたらいいのかよくわからなくてつらい。アウトプットになるほどインプットがあるわけではないのでいろいろな面にアンテナ張って手も動かしていけたらいいです。</p>"},"blogContext":{"category":["ソフトウェア関係","資格","本","その他","Gatsby.js","Contentful","GitHub Actions"]}},"pageContext":{"slug":"blog/fe"}},
+    "staticQueryHashes": ["216570663","28851281"]}

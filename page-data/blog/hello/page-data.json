@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-templates-blog-template-js",
+    "componentChunkName": "component---src-templates-blog-template-jsx",
     "path": "/blog/hello",
-    "result": {"data":{"site":{"siteMetadata":{"siteUrl":"https://furafrafrfr.github.io"}},"contentfulBlogPostV2":{"content":{"childMarkdownRemark":{"frontmatter":{"category":["その他"],"date":"2021-03-26","slug":"/blog/hello","title":"こんにちわ"},"html":"<p>ブログを作りました。何を書くかは具体的には決めてませんがさぼらないように書いていきたいと思います。</p>\n<p>ざっくり勉強したことを中心に書こうと思って作ったブログなので技術的な話をすると、静的サイトジェネレーターのGatsby.jsでビルドしたサイトをNetlifyで公開しています。ヘッドレスCMSとしてContentfulを使っています。ちゃんとしたwebサイトを自分で一から作ることやReactを使うは初めてでしたが、Reactも含めどちらもドキュメントがかなりしっかりしていて使いやすかったと思います。</p>\n<p>初めのあいさつでした。</p>"}}},"blogContext":{"category":["ソフトウェア関係","資格","本","その他","Gatsby.js","Contentful","GitHub Actions"]}},"pageContext":{"slug":"/blog/hello"}},
-    "staticQueryHashes": ["28851281","3558571327"]}
+    "result": {"data":{"site":{"siteMetadata":{"description":"ぐっちーのブログ","lang":"ja","siteUrl":"https://furafrafrfr.github.io","title":"ぐちろぐ"}},"file":{"childImageSharp":{"original":{"src":"/static/newicon-3650662aee295838bcf985eac750f63e.png","width":1081,"height":898}}},"markdownRemark":{"frontmatter":{"category":["その他"],"title":"こんにちわ","slug":"/blog/hello","date":"2021-03-26"},"html":"<p>ブログを作りました。何を書くかは具体的には決めてませんがさぼらないように書いていきたいと思います。</p>\n<p>ざっくり勉強したことを中心に書こうと思って作ったブログなので技術的な話をすると、静的サイトジェネレーターのGatsby.jsでビルドしたサイトをNetlifyで公開しています。ヘッドレスCMSとしてContentfulを使っています。ちゃんとしたwebサイトを自分で一から作ることやReactを使うは初めてでしたが、Reactも含めどちらもドキュメントがかなりしっかりしていて使いやすかったと思います。</p>\n<p>初めのあいさつでした。</p>"},"blogContext":{"category":["ソフトウェア関係","資格","本","その他","Gatsby.js","Contentful","GitHub Actions"]}},"pageContext":{"slug":"/blog/hello"}},
+    "staticQueryHashes": ["216570663","28851281"]}

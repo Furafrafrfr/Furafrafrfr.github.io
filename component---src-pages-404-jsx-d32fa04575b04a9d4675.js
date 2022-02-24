@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[256],{1657:function(t,e,n){n.r(e),n.d(e,{default:function(){return o}});var r=n(5444),l=n(7294);function o(t){t.location;return l.createElement("div",null,"404 Not NotFound. ",l.createElement(r.Link,{to:"/"},"Home"))}}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-d32fa04575b04a9d4675.js.map
